@@ -1,0 +1,6 @@
+What proportion of cases has died (as of the latest information) in the USA?
+How have new cases and total cases developed over time in the USA?
+The answer begins on line 52.
+
+Results Discussion： The results were basically in line with expectations. As can be seen from the graph, the number of new patients per 
+day in the United States began to increase in mid-March 2020, resulting in an exponential increase in the total number of patients 
