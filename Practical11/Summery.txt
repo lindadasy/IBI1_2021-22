@@ -1,0 +1,10 @@
+The alignment score of DLX5_human and DLX5_mouse is -20 and the percentage of identical amino acids is 96.55%
+The alignment score of DLX5_human and random sequence is -314 and the percentage of identical amino acids is 3.10%
+The alignment score of DLX5_mouse and random sequence is -314 and the percentage of identical amino acids is 3.45%
+
+These results are obtained by running the program. By comparing the scores, it can be concluded that the three sequences are far 
+related to each other. However, the alignment score of DLX5_human and DLAX5_mouse was larger than the score of their respective and
+ random sequences, indicating that the genetic relationship of DLX5_human and DLAX5_mouse was larger than their respective and
+ random sequences. At the same time, we can see that the percentage of identical amino acids in DLX5_human and DLX5_mouse is high,
+and there may be a distant genetic relationship. However,  the percentage of identical amino acids in DLX5_human and random sequence
+ or DLX5_mouse and random sequence is very low, and the genetic relationship could not be obtained.  
